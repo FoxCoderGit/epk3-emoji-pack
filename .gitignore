@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+*.pyc
+demo/
+emoji_build/
+*.pack
+*.zip
+*.pkl
+*.npz
+*.class
